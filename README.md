@@ -18,7 +18,7 @@ Hoy haremos una copia de un perfil de instagram en React con styled components s
 
 5. Para la foto de perfil, usen una imagen de su computadora. Recuerden las diferencias entre trabajar con imagenes locales y con imagenes sacadas de internet en React :) 
   
-6. Las fotos deben hacerse recorriendo el siguiente array de objetos:
+6. Las fotos deben hacerse recorriendo el siguiente array de objetos. Como ven, hay mucha informacion en los objetos que por ahora no usaremos (por ahora solo usamos las imagenes). Eso es normal trabajando con data de un fetch. Ignoren toda la info que no necesiten. 
 
 ```js
 const feedsource = [
